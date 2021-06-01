@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PattersonOfficial
 - 👀 I’m interested in Laravel, Angular, Adonis JS, Ionic and Flutter and also now MERN stack(Latest intrigue)
-- 🌱 I’m currently learning Mongoose, Express, React, Node (Mern Stack)
+- 🌱 I’m currently learning Mern Stack and can`t wait to do amazing stuff with it
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email:akrongeconnect@gmail.com / benashertechnologies@gmail.com twitter: https://twitter.com/ace_fist linkedin: https://www.linkedin.com/in/benjamin-akrong-251025132/ facebook: https://web.facebook.com/ace.fist.14/ 
 
